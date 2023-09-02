@@ -1,5 +1,5 @@
 <div style="flex: 1">
-<img align="right" width="300" src="https://myoctocat.com/assets/images/octocat-outfit.png" />
+<img align="right" width="150" src="https://myoctocat.com/assets/images/octocat-outfit.png" />
 </div>
 
 # 👋🏻 Olá, eu sou a Laura!
