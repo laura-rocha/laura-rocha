@@ -7,7 +7,6 @@
 - ✍🏼 Muito prazer! Meu nome é Laura e tenho 21 anos
 - 📙 Estou cursando o último ano do curso de Bacharel em Ciência da Computação na Universidade Estadual de Londrina - UEL
 - 🌱 Atualmente, sou estagiária de BI na Syngenta Agriculture Platform - SYNAP
-- 💻 Além disso, estou cursando o Bootcamp de Ciência de Dados com Python da DIO em parceria com o Santander
 
 ## ⚙️ Tecnologias
 <div align='center'>
