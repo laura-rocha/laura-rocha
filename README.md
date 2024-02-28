@@ -4,7 +4,7 @@
 
 # 👋🏻 Olá, eu sou a Laura!
 
-- ✍🏼 Muito prazer! Meu nome é Laura e tenho 21 anos
+- ✍🏼 Muito prazer! Meu nome é Laura e tenho 22 anos
 - 📙 Estou cursando o último ano do curso de Bacharel em Ciência da Computação na Universidade Estadual de Londrina - UEL
 - 🌱 Atualmente, sou estagiária de BI na Syngenta Agriculture Platform - SYNAP
 
