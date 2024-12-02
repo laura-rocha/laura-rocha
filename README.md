@@ -4,9 +4,9 @@
 
 # 👋🏻 Olá, eu sou a Laura!
 
-- ✍🏼 Muito prazer! Meu nome é Laura e tenho 22 anos
+- ✍🏼 Muito prazer! Meu nome é Laura e tenho 23 anos
 - 📙 Sou formada em Ciência da Computação na Universidade Estadual de Londrina - UEL
-- 🌱 Atualmente, sou Analista de BI na Syngenta Agriculture Platform - SYNAP
+- 👩🏻‍💻 Atualmente, atuo como desenvolvedora de software na empresa que fundei em 2023, a [Aircode](https://www.linkedin.com/company/aircode-br?trk=public_profile_experience-item_profile-section-card_image-click).
 
 ## ⚙️ Tecnologias
 <div align='center'>
