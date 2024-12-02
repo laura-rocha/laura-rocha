@@ -6,7 +6,7 @@
 
 - ✍🏼 Muito prazer! Meu nome é Laura e tenho 23 anos
 - 📙 Sou formada em Ciência da Computação na Universidade Estadual de Londrina - UEL
-- 👩🏻‍💻 Atualmente, atuo como desenvolvedora de software na empresa que fundei em 2023, a [Aircode](https://www.linkedin.com/company/aircode-br?trk=public_profile_experience-item_profile-section-card_image-click).
+- 👩🏻‍💻 Atualmente, atuo como desenvolvedora de software na empresa que fundei em 2023, a [Aircode](https://www.linkedin.com/company/aircode-br?trk=public_profile_experience-item_profile-section-card_image-click)
 
 ## ⚙️ Tecnologias
 <div align='center'>
@@ -50,9 +50,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/laura.rocha__/">
+<!-- <a href="https://www.instagram.com/laura.rocha__/"> 
 <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" alt="Instagram">
-</a>
+</a>-->
 
 </div>
 </div>
